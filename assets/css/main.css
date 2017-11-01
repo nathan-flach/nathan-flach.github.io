@@ -1726,7 +1726,7 @@
 	}
 
 	header.major h2 {
-		color: #4acaa8;
+		color: #A1B8C6;
 		font-size: 3.5em;
 	}
 
@@ -2379,7 +2379,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #4acaa8;
+			background-color: #A1B8C6;
 			color: #ffffff !important;
 		}
 
@@ -2387,7 +2387,7 @@
 			input[type="reset"].special:hover,
 			input[type="button"].special:hover,
 			.button.special:hover {
-				background-color: #5ed0b1;
+				background-color: #72a4e6;
 			}
 
 			input[type="submit"].special:active,
@@ -2461,8 +2461,8 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #4acaa8;
-		color: #d1f1e9;
+		background: #A1B8C6;
+		color: #ffffff;
 		height: 100%;
 		overflow-y: auto;
 		position: fixed;
@@ -2485,11 +2485,11 @@
 		}
 
 		#header a {
-			color: #d1f1e9;
+			color: #ffffff;
 		}
 
 			#header a:hover {
-				color: #ffffff !important;
+				color: #777777 !important;
 			}
 
 		#header > header {
@@ -2512,7 +2512,7 @@
 			}
 
 			#header > header p {
-				color: #d1f1e9;
+				color: #ffffff;
 				font-style: italic;
 				margin: 1em 0 0 0;
 			}
@@ -2533,7 +2533,7 @@
 			}
 
 				#header > footer .icons li a {
-					color: #b6e9dc;
+					color: #ffffff;
 				}
 
 		#header > nav {
@@ -2550,7 +2550,7 @@
 			}
 
 				#header > nav ul li {
-					border-top: solid 2px #5ccfb0;
+					border-top: solid 2px #ffffff;
 					display: block;
 					padding: 0;
 				}
@@ -2569,7 +2569,7 @@
 
 						#header > nav ul li a.active {
 							background: #fff;
-							color: #4acaa8 !important;
+							color: #777777 !important;
 						}
 
 					#header > nav ul li:first-child {
@@ -2606,7 +2606,7 @@
 		background-size: cover;
 		content: '';
 		display: block;
-		height: 15em;
+		height: 19.8em;
 		width: 100%;
 	}
 
