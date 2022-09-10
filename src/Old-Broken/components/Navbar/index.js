@@ -8,14 +8,18 @@ import { useState } from 'react';
 const Navbar = () => {
   return (
     <div className="nav-bar">
-      <Link className="home" to="/">
-        Test Navbar
-      </Link>
       <nav>
-        <NavLink exact="true" activeclassname="active" to="/">
-          <FontAwesomeIcon icon={faHome} color="#4d4d4e" />
+        <NavLink className={"home"} exact="true" activeclassname="active" to="/">
+          Nathan Flach
+        </NavLink>
+        <NavLink className={"about"} exact="true" activeclassname="active" to="about">
+          About
+        </NavLink>
+        <NavLink className={"projects"} exact="true" activeclassname="active" to="projects">
+          Projects
         </NavLink>
       </nav>
+
       <ul>
         <li>
           <a
@@ -23,7 +27,7 @@ const Navbar = () => {
             rel="noreferrer"
             href="https://www.linkedin.com/in/nathanflach/"
           >
-            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" />
+            <FontAwesomeIcon icon={faLinkedin} color="#4d4d4e" className="anchor-icon" />
           </a>
         </li>
       </ul>

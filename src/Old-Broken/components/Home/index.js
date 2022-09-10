@@ -8,7 +8,7 @@ const Home = () => {
     <>
     <div className='container home-page'>
       <img src={HeaderPhoto} alt="me!" />
-      </div>
+    </div>
     </>
   );
 };

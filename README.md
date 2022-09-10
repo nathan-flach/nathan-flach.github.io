@@ -1,4 +1,4 @@
-# Simple personal website/portfolio made with React
+# DEV/DEPLOYMENT README
 
 ## Available Scripts
 
