@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2e5edb6.css",
+    "main.css": "/static/css/main.c0f8d734.css",
     "main.js": "/static/js/main.e91df206.js",
     "static/media/header-photo.png": "/static/media/header-photo.e054e65f4fcfd7b8d36d.png",
     "static/media/nathan-flach-resume.pdf": "/static/media/nathan-flach-resume.8a70f0d151678fecc710.pdf",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
-    "main.a2e5edb6.css.map": "/static/css/main.a2e5edb6.css.map",
+    "main.c0f8d734.css.map": "/static/css/main.c0f8d734.css.map",
     "main.e91df206.js.map": "/static/js/main.e91df206.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2e5edb6.css",
+    "static/css/main.c0f8d734.css",
     "static/js/main.e91df206.js"
   ]
 }
