@@ -48,12 +48,18 @@
 @media (max-width: 600px){
     
     .title a {
-        font-size: 12px;    
+        font-size: 18px;
+        display: block;
+        text-align: center;    
     }
     
+    .navlist {
+        display: block;
+        text-align: center;
+        float: none;
+    }
+
     .navlist a {
         font-size: 12px;
     }
-
-
 }
