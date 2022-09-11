@@ -1,0 +1,38 @@
+.footer {
+    width: 80%;
+    padding-top: 0px;
+    margin: auto;
+}
+
+.footer p {
+    display: inline;
+    font-size: 10px;
+    font-weight: 350;
+    color: #454545;
+    text-decoration: none;
+    font-family: Helvetica Neue;
+}
+
+p.copy {
+    float: left;
+}
+
+p.links {
+    float: right;
+}
+
+.footer a {
+    display: inline;
+    text-decoration: none;
+    color: #454545;
+    &:hover {
+        color: #002199;
+        text-decoration: underline;
+    } 
+}
+
+@media (max-width: 600px){
+    .footer p {
+        font-size: 6px;
+    }
+}

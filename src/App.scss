@@ -1,0 +1,22 @@
+.App {
+    width: 100%;
+    height: auto;
+    //display: flex;
+    //flex-direction: column;
+    //background-color: #fff;
+    // line-height: 1.5;
+}
+
+
+// Styling
+$primary-color: #002199;
+
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url('./assets/fonts/helvetica-neu.ttf') format('ttf');
+}
+
+input,
+textarea {
+  font-family: 'Helvetica Neue';
+}

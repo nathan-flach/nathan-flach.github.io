@@ -5,11 +5,9 @@ import './index.scss';
 
 const Home = () => {
   return (
-    <>
     <div className='container home-page'>
       <img src={HeaderPhoto} alt="me!" />
     </div>
-    </>
   );
 };
 
