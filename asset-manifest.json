@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.4c615365.css",
-    "main.js": "/static/js/main.81b2b6ff.js",
-    "static/media/header-photo.png": "/static/media/header-photo.e054e65f4fcfd7b8d36d.png",
+    "main.css": "/static/css/main.080972ad.css",
+    "main.js": "/static/js/main.66ccc879.js",
+    "static/media/header-photo.png": "/static/media/header-photo.c4190f2afc14999b75fb.png",
     "static/media/nathan-flach-resume.pdf": "/static/media/nathan-flach-resume.d78439e057418159c491.pdf",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
-    "main.4c615365.css.map": "/static/css/main.4c615365.css.map",
-    "main.81b2b6ff.js.map": "/static/js/main.81b2b6ff.js.map"
+    "main.080972ad.css.map": "/static/css/main.080972ad.css.map",
+    "main.66ccc879.js.map": "/static/js/main.66ccc879.js.map"
   },
   "entrypoints": [
-    "static/css/main.4c615365.css",
-    "static/js/main.81b2b6ff.js"
+    "static/css/main.080972ad.css",
+    "static/js/main.66ccc879.js"
   ]
 }
