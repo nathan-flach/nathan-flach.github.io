@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b568da12.css",
-    "main.js": "/static/js/main.c0ce582e.js",
-    "static/js/787.0a151902.chunk.js": "/static/js/787.0a151902.chunk.js",
+    "main.css": "/static/css/main.1fa0a284.css",
+    "main.js": "/static/js/main.e91df206.js",
+    "static/media/header-photo.png": "/static/media/header-photo.e054e65f4fcfd7b8d36d.png",
+    "static/media/nathan-flach-resume.pdf": "/static/media/nathan-flach-resume.8a70f0d151678fecc710.pdf",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
-    "main.b568da12.css.map": "/static/css/main.b568da12.css.map",
-    "main.c0ce582e.js.map": "/static/js/main.c0ce582e.js.map",
-    "787.0a151902.chunk.js.map": "/static/js/787.0a151902.chunk.js.map"
+    "main.1fa0a284.css.map": "/static/css/main.1fa0a284.css.map",
+    "main.e91df206.js.map": "/static/js/main.e91df206.js.map"
   },
   "entrypoints": [
-    "static/css/main.b568da12.css",
-    "static/js/main.c0ce582e.js"
+    "static/css/main.1fa0a284.css",
+    "static/js/main.e91df206.js"
   ]
 }
