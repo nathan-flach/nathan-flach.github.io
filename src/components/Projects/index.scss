@@ -4,9 +4,49 @@
     font-family: Helvetica Neue;
 }
 
-.content h3 {
+.project-title {
     font-size: 18px;
-    padding-top: 10px;
+    padding-top: 0px;
     color: #181818;
+    display: block;
+    text-align: center;
 }
 
+.project-list .card-row {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.muicontainer {
+    padding-top: 2px !important;
+    padding-bottom: 20px !important;
+    a {
+        background: #fff;
+        color: #1F18C0;
+        font-weight: 600;
+        &:hover {
+            border: 1px solid black !important;
+        }
+    }
+
+    h2 {
+        font-size: 20px !important;
+        font-weight: bold !important;
+    }
+
+    p {
+        padding-top: 5px !important;
+        font-size: 12px !important;
+    }
+}
+
+.cardimage {
+    padding-top: 0px !important;
+}
+
+@media (max-width: 600px){
+    .projects h3 {
+        display: block;
+        text-align: center;
+    }
+}
