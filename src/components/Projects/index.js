@@ -301,7 +301,7 @@ const Projects = () => {
                     <i>Sep 2018 - Apr 2019</i>
                   </Typography>
                   <Typography>
-                    Collaboratively explored how to prevent human trafficking in Ontario, Canada by providing police officers with the means to obtain warrants faster. Created and presented a design needs assessment based on user research and interviews to suggest solutions for data discrepancies.
+                  As part of a course on design consultation, myself and my peers collaboratively explored how to improve efforts against human trafficking in Ontario. We created and presented a design needs assessment based on user research and interviews to suggest solutions for data discrepancies between various stakeholders.
                   </Typography>
                 </CardContent>
               </Card>
