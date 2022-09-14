@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nathan-flach.github.io/index.html/static/css/main.0120e8c8.css",
-    "main.js": "/nathan-flach.github.io/index.html/static/js/main.13faa2e5.js",
-    "static/media/header-photo.png": "/nathan-flach.github.io/index.html/static/media/header-photo.c4190f2afc14999b75fb.png",
-    "static/media/wellderly.png": "/nathan-flach.github.io/index.html/static/media/wellderly.57694146f6e1073276c9.png",
-    "static/media/emotional-button.jpg": "/nathan-flach.github.io/index.html/static/media/emotional-button.817c31ec68f82b29346d.jpg",
-    "static/media/museum.jpg": "/nathan-flach.github.io/index.html/static/media/museum.e9cca49f0a3a6f266f47.jpg",
-    "static/media/pinata.png": "/nathan-flach.github.io/index.html/static/media/pinata.53edb971573a47076788.png",
-    "static/media/research-project.png": "/nathan-flach.github.io/index.html/static/media/research-project.8a430d586f2fad49ed40.png",
-    "static/media/trht.png": "/nathan-flach.github.io/index.html/static/media/trht.b9cd5f90642562db2111.png",
-    "static/media/get-office.jpeg": "/nathan-flach.github.io/index.html/static/media/get-office.82bcc0fc01eaf9946021.jpeg",
-    "static/media/edtech.jpeg": "/nathan-flach.github.io/index.html/static/media/edtech.9cabc0b3087e28b6e6de.jpeg",
-    "static/media/undergrad.png": "/nathan-flach.github.io/index.html/static/media/undergrad.816bdb63e2642e24fc65.png",
-    "static/media/nathan-flach-resume.pdf": "/nathan-flach.github.io/index.html/static/media/nathan-flach-resume.d78439e057418159c491.pdf",
-    "static/media/helvetica-neu.ttf": "/nathan-flach.github.io/index.html/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "index.html": "/nathan-flach.github.io/index.html/index.html",
-    "main.0120e8c8.css.map": "/nathan-flach.github.io/index.html/static/css/main.0120e8c8.css.map",
-    "main.13faa2e5.js.map": "/nathan-flach.github.io/index.html/static/js/main.13faa2e5.js.map"
+    "main.css": "/index.html/static/css/main.2f1fba30.css",
+    "main.js": "/index.html/static/js/main.4175564b.js",
+    "static/media/header-photo.png": "/index.html/static/media/header-photo.c4190f2afc14999b75fb.png",
+    "static/media/wellderly.png": "/index.html/static/media/wellderly.57694146f6e1073276c9.png",
+    "static/media/emotional-button.jpg": "/index.html/static/media/emotional-button.817c31ec68f82b29346d.jpg",
+    "static/media/museum.jpg": "/index.html/static/media/museum.e9cca49f0a3a6f266f47.jpg",
+    "static/media/pinata.png": "/index.html/static/media/pinata.53edb971573a47076788.png",
+    "static/media/research-project.png": "/index.html/static/media/research-project.8a430d586f2fad49ed40.png",
+    "static/media/trht.png": "/index.html/static/media/trht.b9cd5f90642562db2111.png",
+    "static/media/get-office.jpeg": "/index.html/static/media/get-office.82bcc0fc01eaf9946021.jpeg",
+    "static/media/edtech.jpeg": "/index.html/static/media/edtech.9cabc0b3087e28b6e6de.jpeg",
+    "static/media/undergrad.png": "/index.html/static/media/undergrad.816bdb63e2642e24fc65.png",
+    "static/media/nathan-flach-resume.pdf": "/index.html/static/media/nathan-flach-resume.d78439e057418159c491.pdf",
+    "static/media/helvetica-neu.ttf": "/index.html/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "index.html": "/index.html/index.html",
+    "main.2f1fba30.css.map": "/index.html/static/css/main.2f1fba30.css.map",
+    "main.4175564b.js.map": "/index.html/static/js/main.4175564b.js.map"
   },
   "entrypoints": [
-    "static/css/main.0120e8c8.css",
-    "static/js/main.13faa2e5.js"
+    "static/css/main.2f1fba30.css",
+    "static/js/main.4175564b.js"
   ]
 }
