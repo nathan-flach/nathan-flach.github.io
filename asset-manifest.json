@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.97124a53.css",
-    "main.js": "/static/js/main.45370410.js",
+    "main.js": "/static/js/main.30054f23.js",
     "static/media/header-photo.png": "/static/media/header-photo.c4190f2afc14999b75fb.png",
     "static/media/wellderly.png": "/static/media/wellderly.57694146f6e1073276c9.png",
     "static/media/emotional-button.jpg": "/static/media/emotional-button.817c31ec68f82b29346d.jpg",
@@ -16,10 +16,10 @@
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
     "main.97124a53.css.map": "/static/css/main.97124a53.css.map",
-    "main.45370410.js.map": "/static/js/main.45370410.js.map"
+    "main.30054f23.js.map": "/static/js/main.30054f23.js.map"
   },
   "entrypoints": [
     "static/css/main.97124a53.css",
-    "static/js/main.45370410.js"
+    "static/js/main.30054f23.js"
   ]
 }
