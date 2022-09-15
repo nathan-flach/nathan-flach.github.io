@@ -83,7 +83,7 @@ const Projects = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1d1VHt2W-t0tjYDsnBObjriSa8gppDTsA/view?usp=sharing">View</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1d1VHt2W-t0tjYDsnBObjriSa8gppDTsA/view?usp=sharing">View Paper</Button>
                   {/* <Modal
                       open={open}
                       onClose={handleClose}
@@ -133,7 +133,7 @@ const Projects = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://docs.google.com/presentation/d/1mEN1pb6ApoCXA6DU14fdItCC7NOFSqRw2rcYLHM0t70/edit?usp=sharing">View</Button>
+                  <Button size="small" target="_blank" href="https://docs.google.com/presentation/d/1mEN1pb6ApoCXA6DU14fdItCC7NOFSqRw2rcYLHM0t70/edit?usp=sharing">View Process Slideshow</Button>
                 </CardActions>
               </Card>
             </Grid>
@@ -190,7 +190,7 @@ const Projects = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1K4JambV3LqtXwGpeIZ2vejplbk5sFRmd/view?usp=sharing">View</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1K4JambV3LqtXwGpeIZ2vejplbk5sFRmd/view?usp=sharing">View Process Documentation</Button>
                 </CardActions>
               </Card>
             </Grid>
@@ -220,7 +220,7 @@ const Projects = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://portfolio.fh-salzburg.ac.at/projects/2022-getoffice-an-anti-work-system">View</Button>
+                  <Button size="small" target="_blank" href="https://portfolio.fh-salzburg.ac.at/projects/2022-getoffice-an-anti-work-system">View Process Documentation</Button>
                 </CardActions>
               </Card>
             </Grid>
