@@ -76,14 +76,14 @@ const Projects = () => {
                     "Empathy" themed Research Paper
                   </Typography>
                   <Typography variant="p" sx={{ color: "#4d4d4d", fontSize: "12px" }}>
-                    <i>Feb 2022 - Present (WIP for publication)</i>
+                    <i>Feb 2022 - Feb 2023 (Accepted for Publication for TEI 2023)</i>
                   </Typography>
                   <Typography>
                   Explored how revealing implicit emotional responses tangibly could foster empathy during mobile texting. Using a Research through Design methodology, myself and two partners conducted two series of workshops to discover form, function, and context. We used our results to build a mechanical phone case that sends the sender of a text message the initial implicit emotional reaction of the receiver, thereby explicitly revealing to the sender how best they can proceed with the enriched conversation.
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1d1VHt2W-t0tjYDsnBObjriSa8gppDTsA/view?usp=sharing">View Paper</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/17uoSVd0WV7RXG55VV0b7sBoM8gq5Ptp2/view?usp=share_link">View Paper</Button>
                   {/* <Modal
                       open={open}
                       onClose={handleClose}
