@@ -83,7 +83,7 @@ const Projects = () => {
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/17uoSVd0WV7RXG55VV0b7sBoM8gq5Ptp2/view?usp=share_link">View Paper</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1tutyMOjrywV1Njils5ghjJyWfTWAt0bt/view?usp=share_link">View Paper</Button>
                   {/* <Modal
                       open={open}
                       onClose={handleClose}
