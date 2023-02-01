@@ -17,6 +17,14 @@
     padding-bottom: 10px;
 }
 
+.content a {
+    text-decoration: none;
+    color: #1F18C0;
+    &:hover {
+        text-decoration: underline;
+    } 
+}
+
 .muicontainer {
     padding-top: 2px !important;
     padding-bottom: 20px !important;
