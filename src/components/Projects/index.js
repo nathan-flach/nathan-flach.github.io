@@ -15,7 +15,8 @@ import Typography from '@mui/material/Typography';
 
 // Photos
 import ResearchProjPhoto from '../../assets/images/projects/research-project.png';
-import CACDPhoto from '../../assets/images/projects/pinata.png';
+//import CACDPhoto from '../../assets/images/projects/pinata.png';
+import TrinityPhoto from '../../assets/images/projects/hackathontrinity.jpg';
 import EmoButtonPhoto from '../../assets/images/projects/emotional-button.jpg';
 import GetOffPhoto from '../../assets/images/projects/get-office.jpeg';
 import WellderlyPhoto from '../../assets/images/projects/wellderly.png';
@@ -76,14 +77,14 @@ const Projects = () => {
                     "Empathy" themed Research Paper
                   </Typography>
                   <Typography variant="p" sx={{ color: "#4d4d4d", fontSize: "12px" }}>
-                    <i>Feb 2022 - Feb 2023 (Accepted for Publication for TEI 2023)</i>
+                    <i>Feb 2022 - Feb 2023 (<a href="https://programs.sigchi.org/tei/2023/index/content/91959" target={"_blank"} rel="noreferrer">Accepted for Publication for TEI 2023</a>)</i>
                   </Typography>
                   <Typography>
-                  Explored how revealing implicit emotional responses tangibly could foster empathy during mobile texting. Using a Research through Design methodology, myself and two partners conducted two series of workshops to discover form, function, and context. We used our results to build a mechanical phone case that sends the sender of a text message the initial implicit emotional reaction of the receiver, thereby explicitly revealing to the sender how best they can proceed with the enriched conversation.
+                  Explored how revealing implicit emotional responses tangibly could foster empathy during mobile texting. Using a Research through Design methodology, myself and two co-authors conducted two series of workshops to discover context, form, and function. We used our results to build a phone case attachment sends the initial implicit emotional reaction of the receiver to the sender of a text, thereby explicitly revealing to the sender how best they can proceed with the enriched conversation.
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1tutyMOjrywV1Njils5ghjJyWfTWAt0bt/view?usp=share_link">View Paper</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1tutyMOjrywV1Njils5ghjJyWfTWAt0bt/view?usp=share_link">Read the Paper</Button>
                   {/* <Modal
                       open={open}
                       onClose={handleClose}
@@ -109,8 +110,8 @@ const Projects = () => {
             </Grid>
             {/* Project Item 9 End */}
 
-            {/* Project Item 8 Start */}
-            <Grid item key={2} xs={12} sm={6} md={4}>
+            {/* Project Item 7 Start */}
+            <Grid item key={3} xs={12} sm={6} md={4}>
               <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
                 <CardMedia
                   className="cardimage"
@@ -118,29 +119,30 @@ const Projects = () => {
                   sx={{
                     pt: '56.25%',
                   }}
-                  image={EmoButtonPhoto}
+                  image={TrinityPhoto}
                   alt="random"
                 />
                 <CardContent sx={{ flexGrow: 1 }}>
                   <Typography gutterBottom variant="h5" component="h2">
-                    "Emotional" Button Interaction Design
+                  A Critical Innovative Interaction
                   </Typography>
                   <Typography variant="p" sx={{ color: "#4d4d4d", fontSize: "12px" }}>
-                    <i>Feb 2022 - Jul 2022</i>
+                    <i>Oct 2022 - Dec 2022</i>
                   </Typography>
                   <Typography>
-                    Designed a physical button that encapsulates the feeling of reluctance. Using arduino components (physical sensors, haptic feedback mechanisms, light displays, code, motors, etc.), a chapstick-pulley method, and latex for an authentic skin-like/Cronenberg feel – I created an interactive storyline where this “button” expressed reluctance in the form of shakes, reactions, and lights.
+                  During a two-day Hackathon, myself and four group members sought to create a novel interaction method for people who are looking for a “noise-cancelling” experience away from the attention economy and instead for the singular act of distraction-free
+music listening. We built "Trinity," a system that blends mindfulness practice and tooling to afford a meaningful experience for music appreciation and having a moment of serenity for oneself without distractions.
                   </Typography>
                 </CardContent>
                 <CardActions>
-                  <Button size="small" target="_blank" href="https://docs.google.com/presentation/d/1mEN1pb6ApoCXA6DU14fdItCC7NOFSqRw2rcYLHM0t70/edit?usp=sharing">View Process Slideshow</Button>
+                  <Button size="small" target="_blank" href="https://drive.google.com/file/d/1uM-qNXZK_KXVWw9UCL1MAjqxN7VrfLMs/view?usp=sharing">View pictorial</Button>
                 </CardActions>
               </Card>
             </Grid>
-            {/* Project Item 8 End */}
+            {/* Project Item 7 End */}
 
-            {/* Project Item 7 Start */}
-            <Grid item key={3} xs={12} sm={6} md={4}>
+{/* Project Item 7 Start 
+<Grid item key={3} xs={12} sm={6} md={4}>
               <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
                 <CardMedia
                   className="cardimage"
@@ -164,7 +166,37 @@ const Projects = () => {
                 </CardContent>
               </Card>
             </Grid>
-            {/* Project Item 7 End */}
+           Project Item 7 End */}
+
+          {/* Project Item 8 Start */}
+          <Grid item key={2} xs={12} sm={6} md={4}>
+              <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column' }}>
+                <CardMedia
+                  className="cardimage"
+                  component="img"
+                  sx={{
+                    pt: '56.25%',
+                  }}
+                  image={EmoButtonPhoto}
+                  alt="random"
+                />
+                <CardContent sx={{ flexGrow: 1 }}>
+                  <Typography gutterBottom variant="h5" component="h2" sx={{ paddingTop: '18px' }}>
+                    "Emotional" Button Interaction Design
+                  </Typography>
+                  <Typography variant="p" sx={{ color: "#4d4d4d", fontSize: "12px" }}>
+                    <i>Feb 2022 - Jul 2022</i>
+                  </Typography>
+                  <Typography>
+                    Designed a physical button that encapsulates the feeling of reluctance. Using arduino components (physical sensors, haptic feedback mechanisms, light displays, code, motors, etc.), a chapstick-pulley method, and latex for an authentic skin-like/Cronenberg feel – I created an interactive storyline where this “button” expressed reluctance in the form of shakes, reactions, and lights.
+                  </Typography>
+                </CardContent>
+                <CardActions>
+                  <Button size="small" target="_blank" href="https://docs.google.com/presentation/d/1mEN1pb6ApoCXA6DU14fdItCC7NOFSqRw2rcYLHM0t70/edit?usp=sharing">View Process Slideshow</Button>
+                </CardActions>
+              </Card>
+            </Grid>
+            {/* Project Item 8 End */}
 
             {/* Project Item 6 Start */}
             <Grid item key={4} xs={12} sm={6} md={4}>
