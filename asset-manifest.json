@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.97124a53.css",
+    "main.css": "/static/css/main.a2fcbd88.css",
     "main.js": "/static/js/main.c8fce91b.js",
     "static/media/header-photo.png": "/static/media/header-photo.c4190f2afc14999b75fb.png",
     "static/media/wellderly.png": "/static/media/wellderly.57694146f6e1073276c9.png",
@@ -15,11 +15,11 @@
     "static/media/nathan-flach-resume.pdf": "/static/media/nathan-flach-resume.d78439e057418159c491.pdf",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
-    "main.97124a53.css.map": "/static/css/main.97124a53.css.map",
+    "main.a2fcbd88.css.map": "/static/css/main.a2fcbd88.css.map",
     "main.c8fce91b.js.map": "/static/js/main.c8fce91b.js.map"
   },
   "entrypoints": [
-    "static/css/main.97124a53.css",
+    "static/css/main.a2fcbd88.css",
     "static/js/main.c8fce91b.js"
   ]
 }
