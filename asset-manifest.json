@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2fcbd88.css",
-    "main.js": "/static/js/main.c8fce91b.js",
+    "main.css": "/static/css/main.97124a53.css",
+    "main.js": "/static/js/main.ab806dbc.js",
     "static/media/header-photo.png": "/static/media/header-photo.c4190f2afc14999b75fb.png",
     "static/media/wellderly.png": "/static/media/wellderly.57694146f6e1073276c9.png",
     "static/media/emotional-button.jpg": "/static/media/emotional-button.817c31ec68f82b29346d.jpg",
     "static/media/museum.jpg": "/static/media/museum.e9cca49f0a3a6f266f47.jpg",
-    "static/media/pinata.png": "/static/media/pinata.53edb971573a47076788.png",
+    "static/media/hackathontrinity.jpg": "/static/media/hackathontrinity.e6685328dac593b8fc62.jpg",
     "static/media/research-project.png": "/static/media/research-project.8a430d586f2fad49ed40.png",
     "static/media/trht.png": "/static/media/trht.b9cd5f90642562db2111.png",
     "static/media/get-office.jpeg": "/static/media/get-office.82bcc0fc01eaf9946021.jpeg",
@@ -15,11 +15,11 @@
     "static/media/nathan-flach-resume.pdf": "/static/media/nathan-flach-resume.d78439e057418159c491.pdf",
     "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
     "index.html": "/index.html",
-    "main.a2fcbd88.css.map": "/static/css/main.a2fcbd88.css.map",
-    "main.c8fce91b.js.map": "/static/js/main.c8fce91b.js.map"
+    "main.97124a53.css.map": "/static/css/main.97124a53.css.map",
+    "main.ab806dbc.js.map": "/static/js/main.ab806dbc.js.map"
   },
   "entrypoints": [
-    "static/css/main.a2fcbd88.css",
-    "static/js/main.c8fce91b.js"
+    "static/css/main.97124a53.css",
+    "static/js/main.ab806dbc.js"
   ]
 }
