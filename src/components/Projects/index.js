@@ -77,7 +77,7 @@ const Projects = () => {
                     "Empathy" themed Research Paper
                   </Typography>
                   <Typography variant="p" sx={{ color: "#4d4d4d", fontSize: "12px" }}>
-                    <i>Feb 2022 - Feb 2023 (<a href="https://programs.sigchi.org/tei/2023/index/content/91959" target={"_blank"} rel="noreferrer">Accepted for Publication for TEI 2023</a>)</i>
+                    <i>Feb 2022 - Feb 2023 (<a href="https://dl.acm.org/doi/10.1145/3569009.3573124" target={"_blank"} rel="noreferrer">Accepted for Publication for TEI 2023</a>)</i>
                   </Typography>
                   <Typography>
                   Explored how revealing implicit emotional responses tangibly could foster empathy during mobile texting. Using a Research through Design methodology, myself and two co-authors conducted two series of workshops to discover context, form, and function. We used our results to build a phone case attachment sends the initial implicit emotional reaction of the receiver to the sender of a text, thereby explicitly revealing to the sender how best they can proceed with the enriched conversation.
